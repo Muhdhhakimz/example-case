@@ -7,20 +7,20 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'YrhMvZjtTKWYcd8', 
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
+global.namabot = "Bot kimzz"
+global.namaowner = "MuhdHakim"
+global.packname = kimzbotz
+global.author = kimzz
 global.myweb = "https://s.id/zeeoneofc"
-global.footer_text = "© " + namabot
+global.footer_text = " " + 
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
+global.owner = ['60146351257']
 global.sessionName = 'session'
-global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
+global.background = "https://telegra.ph/file/5f19e649e51c926f3dbb3.jpg" //maks size 50kb agar welcome nya gk lemot
 global.prefa = ['-_-']
 global.grup_only = false //bot hanya bisa di gunakan dalam grup jika true
 global.mess = {
